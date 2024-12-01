@@ -3,6 +3,7 @@
 # MEMEREAPER CT
 
 JOIN OUR DISCORD FOR FREE ACCESS TO THE BETA - https://discord.gg/GpDaaCYW
+
 **Skull-Mimic CT** is an advanced trading bot designed for the Solana blockchain. It automates trading strategies by monitoring specified wallets and executing trades based on real-time data and customizable parameters.
 
 ## Features
