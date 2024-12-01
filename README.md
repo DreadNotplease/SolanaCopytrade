@@ -25,7 +25,7 @@ JOIN OUR DISCORD FOR FREE ACCESS TO THE BETA - https://discord.gg/GpDaaCYW
 
 https://x.com/MemeReaperBot
 
+![Memereaperlogo](https://github.com/user-attachments/assets/5d661564-ac13-4748-8738-0ed650b77df9)
 
-![Uploading Memereaperlogo.png…]()
 
 
